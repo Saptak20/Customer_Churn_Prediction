@@ -78,13 +78,10 @@ Evaluated using accuracy, precision, recall, F1-score, and confusion matrix.
 
 🌐 Live Demo
 🔗 Click here to open the Streamlit app:
-https://saptak-churn-app.streamlit.app/
+(https://saptak-churn-app.streamlit.app/)
 
 📃 License
 This project is open-source and available under the MIT License.
-
-yaml
-Copy code
 
 ---
 
